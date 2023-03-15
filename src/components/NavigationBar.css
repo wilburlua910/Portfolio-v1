@@ -1,0 +1,18 @@
+.nav-headers {
+    color: white;
+    display: flex;
+    gap: 1em;
+    justify-content: flex-end;
+    margin: 2em;
+    list-style-type: none;
+    font-size: large;
+}
+
+.nav-resume-btn {
+    background-color: #52525B;
+    color: white;
+    margin: 0.2em;
+    height: 50px;
+    width: 200px;
+
+}
